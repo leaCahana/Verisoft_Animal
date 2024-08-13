@@ -1,0 +1,8 @@
+D:\Users\lea.cahana\Desktop\verisoft\verisoft\bin\Debug\verisoft.exe.config
+D:\Users\lea.cahana\Desktop\verisoft\verisoft\bin\Debug\verisoft.exe
+D:\Users\lea.cahana\Desktop\verisoft\verisoft\bin\Debug\verisoft.pdb
+D:\Users\lea.cahana\Desktop\verisoft\verisoft\obj\Debug\verisoft.csproj.AssemblyReference.cache
+D:\Users\lea.cahana\Desktop\verisoft\verisoft\obj\Debug\verisoft.csproj.SuggestedBindingRedirects.cache
+D:\Users\lea.cahana\Desktop\verisoft\verisoft\obj\Debug\verisoft.csproj.CoreCompileInputs.cache
+D:\Users\lea.cahana\Desktop\verisoft\verisoft\obj\Debug\verisoft.exe
+D:\Users\lea.cahana\Desktop\verisoft\verisoft\obj\Debug\verisoft.pdb
